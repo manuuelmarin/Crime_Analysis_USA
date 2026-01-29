@@ -17,8 +17,8 @@ Two main files are provided:
   Quarto source document containing all the code, figures, and narrative for the analysis and modeling.
 
 - `Crime_Analysis.html`  
-  HTML report rendered from the `.qmd` file. Due to its size, GitHub cannot display it directly in the browser. To view it, you need to **download the file and open it locally** in a web browser.
-
+  HTML report rendered from the `.qmd` file. Due to its size, GitHub cannot display it directly in the browser.
+  
 ## Analysis contents
 
 The report includes, among others:
